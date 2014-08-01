@@ -1,0 +1,17 @@
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\bin\Debug\Windows Media Player 9.exe.config
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\bin\Debug\Windows Media Player 9.exe
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\bin\Debug\Windows Media Player 9.pdb
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows Media Player 9.csprojResolveAssemblyReference.cache
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.Form1.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.MediaLibraryView.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.MediaView.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.Properties.Resources.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows Media Player 9.csproj.GenerateResource.Cache
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows Media Player 9.exe
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows Media Player 9.pdb
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.ColorChooserView.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.MediaToolbar.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.MediaToolbarButton.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.SettingsForm.resources
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\bin\Debug\Id3Tag.Net.dll
+c:\users\alecca\documents\visual studio 2013\Projects\Windows Media Player 9\Windows Media Player 9\obj\Debug\Windows_Media_Player_9.ImportMusicForm.resources

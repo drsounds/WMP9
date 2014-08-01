@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<theme>
+  <meta light="true" hue="0" saturation="255" lumosity="255" />
+  <selector selector="Control.background-color" value="#eeeeee" />
+  <selector selector="ListView.background-color" value="#eeeeff" />
+  <selector selector="ListView.color" value="#0077ff" />
+  <selector selector="TreeView.background-color" value="#eeeeff" />
+  <selector selector="TreeView.color" value="#0077ff" />
+  <selector selector="ListView::alternate.color" value="#ddddff" />
+</theme>
